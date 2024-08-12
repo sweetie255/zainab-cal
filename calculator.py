@@ -5,7 +5,7 @@ import multiplication
 import divide
 
 # Title of the app
-st.title("Simple Calculator")
+st.title("Zainab Calculator")
 
 # Input fields for numbers
 num1 = st.number_input("Enter the first number:", value=0.0)
